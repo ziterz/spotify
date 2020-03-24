@@ -1,2 +1,2 @@
-# vue-spotify
+# spotify
 Spotify landing page with vue
