@@ -1,2 +1,2 @@
 # spotify
-Spotify landing page with vue
+Spotify landing page with vuex
